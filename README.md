@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0053-maximum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
