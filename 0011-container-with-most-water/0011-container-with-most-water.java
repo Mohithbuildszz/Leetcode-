@@ -5,13 +5,13 @@ class Solution {
         int i = 0;
         int j = n - 1;
 
-    int max = Integer.MIN_VALUE;
+    int max =0;
     while(i < j ){
         int count = (j - i) * Math.min(height[i],height[j]);
         max = Math.max(max,count);
-        if(height[i] < height[j])
+        if(height[i] < height[j]){
             i++;
-        else 
+        } else  
             j--;
     }
     return max;
