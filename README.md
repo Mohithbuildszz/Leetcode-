@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0704-binary-search](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0704-binary-search) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Trie
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
