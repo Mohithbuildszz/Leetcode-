@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Recursion
 |  |
