@@ -1,15 +1,12 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int n = nums.length;
-        for(int i=0;i<n;i++){
-            int flag = 0;
-        for(int j=0;j<n;j++){
-            if(nums[j] == i){
-                flag = 1;
-                break;
-            }
-        } if(flag == 0) return i;
-    }
-        return n;
+        int sum1 = n * (n+1) / 2; // formula for the missing number
+        int sum2 =0; // to store the total of nums
+        for(int num:nums){  // to add the total into sum2
+            sum2 += num;
+        } 
+        int missing = sum1 - sum2; //sub sum1-sum2 you gett 
+        return missing;
     }
 }
