@@ -1,14 +1,14 @@
 class Solution {
-    public boolean checkIfPangram(String sentence) {
-        boolean[] visited = new boolean[26];
-        for(int i=0;i<sentence.length();i++){
-            char ch = sentence.charAt(i);
-             visited[ch - 'a'] = true;
-        } for(int i=0;i<26;i++){
-            if(visited[i] == false){
+    public boolean checkIfPangram(String s) {
+          if (s.length() < 26) {
+            return false;
+        }
+        for (char i = 'a'; i <= 'z'; i++) {
+            if (s.indexOf(i) == -1) {
                 return false;
             }
         }
         return true;
     }
 }
+    
