@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0169-majority-element/) | Easy |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
