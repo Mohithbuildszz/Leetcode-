@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0238-product-of-array-except-self) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0704-binary-search) |
 ## Bit Manipulation
