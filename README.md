@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0739-daily-temperatures) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1480-running-sum-of-1d-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
+| [3151-special-array-i](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3151-special-array-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
