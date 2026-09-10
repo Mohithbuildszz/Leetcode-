@@ -10,7 +10,7 @@ class Solution {
                 sum /= nums[left];
                 left++;
             }
-            count += i - left + 1;
+            count += i-left+1;
         }
         return count;
     }
