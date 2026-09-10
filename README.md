@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0739-daily-temperatures) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
