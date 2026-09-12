@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0344-reverse-string/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
