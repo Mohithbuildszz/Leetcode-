@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0283-move-zeroes) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Pigeonhole Principle
