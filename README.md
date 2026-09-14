@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0012-integer-to-roman) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0118-pascals-triangle/) | Easy |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
