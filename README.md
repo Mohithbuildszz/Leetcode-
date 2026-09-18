@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
@@ -161,10 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
