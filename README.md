@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3151-special-array-i](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3151-special-array-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Trie
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0645-set-mismatch) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
