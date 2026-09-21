@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0496-next-greater-element-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
 ## Union-Find
@@ -295,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
 ## Sliding Window
 |  |
@@ -323,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
