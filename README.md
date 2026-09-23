@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0645-set-mismatch) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Array
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0645-set-mismatch) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1647-minimum-deletions-to-make-character-frequencies-unique/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
