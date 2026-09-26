@@ -1,6 +1,6 @@
 class Solution {
     public int findContentChildren(int[] g, int[] s) {
-    int n=g.length;
+        int n=g.length;
         int m=s.length;
         int left = 0;
         int right=0;
