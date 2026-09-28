@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
