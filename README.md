@@ -375,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0912-sort-an-array/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0195-tenth-line](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
