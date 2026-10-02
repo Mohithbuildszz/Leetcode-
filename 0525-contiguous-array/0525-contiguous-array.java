@@ -9,9 +9,9 @@ class Solution {
         int sum = 0;
         for(int i=0;i<n;i++){
             if(nums[i] == 1){
-                sum++;
+                sum = sum + 1;
             }else if(nums[i] == 0){
-                sum--;
+                sum = sum - 1;
             } if(result.containsKey(sum)){
             int prev = result.get(sum);
             int curr = i;
