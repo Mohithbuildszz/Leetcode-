@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1480-running-sum-of-1d-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
