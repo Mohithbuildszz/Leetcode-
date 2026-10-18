@@ -5,13 +5,7 @@ class Solution {
 
        HashMap<Integer,Integer> result = new HashMap<>();
        for(int i=0;i<n;i++){
-
-        if(result.containsKey(nums[i])){
-            result.put(nums[i],result.get(nums[i]) + 1);
-        } 
-        else {
-            result.put(nums[i], 1);
-        }
+        result.put(nums[i], result.getOrDefault(nums[i],0)+1);
        }
 
         for(int j=0;j<n;j++){
@@ -19,7 +13,7 @@ class Solution {
             ans += nums[j];
         }
        }
-       
+
        return ans;
     }
 }
