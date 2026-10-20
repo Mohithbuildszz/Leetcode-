@@ -12,7 +12,7 @@ class Solution {
             } else {
                 high = mid - 1;
             }
-        }
-        return k + low;
+        }int ans = k + low;
+        return ans;
     }
 }
