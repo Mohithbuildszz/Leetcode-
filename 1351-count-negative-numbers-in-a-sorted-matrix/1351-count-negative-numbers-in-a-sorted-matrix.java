@@ -3,13 +3,19 @@ class Solution {
         int rows = grid.length;
         int cols = grid[0].length;
         int count = 0;
-        for(int i=0;i<rows;i++){
-            for(int j=0;j<cols;j++){
-                if(grid[i][j] < 0){
-                    count++;
+        for (int i = 0; i < rows; i++) {
+        int low = 0;
+        int high = cols - 1;
+        while(low <= high){
+                int mid = low + (high-low) / 2;
+                if(grid[i][mid] < 0){
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
                 }
-            }
-        }
+                 }
+                 count += cols - low;
+             }
         return count;
+        }
     }
-}
