@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0441-arranging-coins/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0713-subarray-product-less-than-k/) | Medium |
