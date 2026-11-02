@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0912-sort-an-array/) | Medium |
