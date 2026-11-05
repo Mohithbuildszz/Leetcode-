@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1748-sum-of-unique-elements) |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2643-row-with-maximum-ones](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3151-special-array-i](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3151-special-array-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
