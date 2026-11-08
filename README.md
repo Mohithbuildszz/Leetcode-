@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1748-sum-of-unique-elements) |
 | [1882-process-tasks-using-servers](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1882-process-tasks-using-servers/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2643-row-with-maximum-ones](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2643-row-with-maximum-ones/) | Easy |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1901-find-a-peak-element-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
