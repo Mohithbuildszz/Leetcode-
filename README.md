@@ -2,15 +2,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0009-palindrome-number) |
@@ -31,14 +31,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0021-merge-two-sorted-lists) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0008-string-to-integer-atoi) |
@@ -58,8 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0012-integer-to-roman](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0073-set-matrix-zeroes) |
@@ -89,8 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0014-longest-common-prefix) |
@@ -175,12 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0014-longest-common-prefix) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0015-3sum) |
@@ -204,8 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0018-4sum) |
@@ -229,37 +230,37 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2747-count-zero-request-servers](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2747-count-zero-request-servers) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Z Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0169-majority-element/) | Easy |
@@ -268,8 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0912-sort-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0070-climbing-stairs) |
@@ -280,23 +281,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0070-climbing-stairs) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0387-first-unique-character-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0410-split-array-largest-sum) |
@@ -308,17 +309,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1590-make-sum-divisible-by-p/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0069-sqrtx/) | Easy |
@@ -347,21 +349,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1901-find-a-peak-element-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0645-set-mismatch) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0739-daily-temperatures) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
@@ -370,18 +372,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1748-sum-of-unique-elements) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0128-longest-consecutive-sequence) |
 | [1267-count-servers-that-communicate](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0229-majority-element-ii) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -393,26 +395,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0455-assign-cookies) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0621-task-scheduler) |
@@ -421,8 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -431,79 +433,79 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Pigeonhole Principle
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0202-happy-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Manacher
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0005-longest-palindromic-substring) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0912-sort-an-array/) | Medium |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0347-top-k-frequent-elements) |
 ## Range Minimum/Maximum Query
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0912-sort-an-array](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0912-sort-an-array/) | Medium |
 ## Shell
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0195-tenth-line](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0195-tenth-line/) | Easy |
 ## Newton's Method
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0069-sqrtx/) | Easy |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 <!---LeetCode Topics End-->
