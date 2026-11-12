@@ -8,8 +8,6 @@ class Solution {
                 count=1;
             } else if(nums[i] < nums[i+1]){
                 count++;
-            }else{
-                count = 1;
             }
             max = Math.max(count,max);
         }
