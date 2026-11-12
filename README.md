@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0392-is-subsequence/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1021-remove-outermost-parentheses) |
+| [1446-consecutive-characters](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1446-consecutive-characters/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
