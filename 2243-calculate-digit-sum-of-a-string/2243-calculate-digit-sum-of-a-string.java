@@ -1,16 +1,16 @@
 class Solution {
     public String digitSum(String s, int k) {
-        while (s.length() > k) {
-            StringBuilder tmp = new StringBuilder(); 
-            int n = s.length();
-            for (int i = 0; i < n; i += k) {
-                int val = 0;
-                for (int j = i; j < Math.min(i + k, n); ++j) {
-                    val += s.charAt(j) - '0';
+        while(s.length() > k){
+            StringBuilder sb = new StringBuilder();
+            int sum = 0;
+            for(int i = 1; i <=s.length(); i++){
+                sum += s.charAt(i-1) - '0';
+                if(i % k == 0 || i == s.length()){
+                    sb.append(sum);
+                    sum=0;  
                 }
-                tmp.append(val);
             }
-            s = tmp.toString();
+            s = sb.toString();
         }
         return s;
     }
