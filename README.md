@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
