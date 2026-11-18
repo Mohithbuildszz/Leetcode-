@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3024-type-of-triangle](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3024-type-of-triangle/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Mohithbuildszz/Leetcode-/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Mohithbuildszz/Leetcode-/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2747-count-zero-request-servers](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3024-type-of-triangle](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3024-type-of-triangle/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Mohithbuildszz/Leetcode-/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3151-special-array-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mohithbuildszz/Leetcode-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2747-count-zero-request-servers](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2747-count-zero-request-servers) |
+| [3024-type-of-triangle](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3024-type-of-triangle/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -534,4 +537,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
