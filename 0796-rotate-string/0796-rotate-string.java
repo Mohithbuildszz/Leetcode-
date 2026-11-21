@@ -3,12 +3,7 @@ class Solution {
         if(s.length() != goal.length()){
             return false;
         } 
-        for(int i=0;i<s.length();i++){
-            String rotate = s.substring(i) + s.substring(0,i);
-            if(rotate.contains(goal)){
-                return true;
-            }
-        }
-        return false;
+       String rotate = s+s;
+       return rotate.contains(goal);
     }
 }
