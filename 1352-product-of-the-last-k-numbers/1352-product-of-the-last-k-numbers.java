@@ -18,7 +18,8 @@ class ProductOfNumbers {
     public int getProduct(int k) {
         int n = prefix.size();
         if(k>=prefix.size()) return 0;
-        return prefix.get(prefix.size()-1) / prefix.get(n-1-k);
+        int ans = prefix.get(prefix.size()-1) / prefix.get(n-1-k);
+        return ans;
     }
 }
 
