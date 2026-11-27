@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Mohithbuildszz/Leetcode-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0258-add-digits](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0258-add-digits/) | Easy |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Mohithbuildszz/Leetcode-/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Mohithbuildszz/Leetcode-/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Brainteaser
@@ -577,5 +579,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Mohithbuildszz/Leetcode-/tree/main/0258-add-digits/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Mohithbuildszz/Leetcode-/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
